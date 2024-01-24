@@ -11,6 +11,15 @@ def hello_world():
     print("Hello, World")
 
 def add(a,b):
+    """
+    Adds two input values and returns the result.
+    parameters:
+    a (int or float): The first  operand
+    b (int or float): The second operand
+    
+    Returns:
+    int or float: The result of adding a and b
+    """
 
     # Write simple code to add variable a and b
     output = a + b
