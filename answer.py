@@ -20,6 +20,7 @@ def add(a,b):
     a=int(input("a="))
     b=int(input("b="))
     c=a+b
-    print("Ans=",c)
+    output=c
+    
 
     return output
